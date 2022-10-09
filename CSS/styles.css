@@ -1,0 +1,118 @@
+.container{
+    max-width: 1920px;
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+aside {
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+    background-color: white;
+    
+}
+.aside1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.profile{
+    margin-bottom: 20px;
+    color: #226CFC;
+}
+.aside2{
+     margin-top: 150px;
+    
+}
+.menu{
+    line-height: 30px;
+}
+
+h3 {
+    margin-bottom: 20px;
+    
+}
+.aside3{
+    margin-top: 410px;
+    margin-left: 70px;
+    
+  
+    
+    
+}
+   .b1{
+    background-color: #226CFC;
+    margin-bottom: 20px;
+    color: white;
+   }
+   .b2{
+    background-color: #dbe2f1;
+   }
+   .buttonblock{
+    display: block;
+    width: 200px;
+    padding: 10px 0;
+   }
+main {
+    width: 80%;
+    height: 100%;
+    display: inline-block;
+    margin-left: -0.3%;
+    vertical-align: top;
+}
+header {
+    width: 100%;
+    background-color: #1473E6;
+    float: left;
+}
+.logo {
+    margin-left: 65px;
+   
+}
+nav {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 20px;
+    margin-left: 60%;
+    color: white;
+    font-weight: bolder;
+}
+
+.section {
+    width: 100%;
+    height: 92%;
+    padding-top: 130px;
+    padding-right: 100px;
+    padding-left: 100px;    
+}
+.pc{
+    width: 569px;
+    height: 562px;
+}
+.aboutmetxt{
+    width: 560px;
+    height: 562px;
+    background-color: #f1eded;
+    margin-left: -0.4%;
+    padding-left: 90px;
+    padding-right: 5px; 
+    display: inline-block;
+    vertical-align: top;
+   
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 300;
+}
+.readmore{
+    margin-top: 30%;
+    background-color: yellow;
+    width: 170px;
+    height: 54px;
+}
+h3{
+    font-weight: bolder;
+}
